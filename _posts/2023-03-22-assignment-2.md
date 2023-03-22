@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      Assignment 2  
+header-img: img/nasa.jpg
+catalog: true
+tags:
+    - 
+    - 
+    - 
+---
+
+<embed 
+       type="text/html" 
+       src="/img/pie chart.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+<embed 
+       type="text/html" 
+       src="/img/map of SF.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
+<embed 
+       type="text/html" 
+       src="/img/Crime Trends 168.html"
+       width="1100"
+       height="600"
+       >
+</embed>
+
+
