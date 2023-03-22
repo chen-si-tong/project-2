@@ -1,6 +1,6 @@
 # Site settings
 title: Social data analysis and visualization
-SEOTitle: 02806
+SEOTitle: Assignment 2
 header-img: img/nasa.jpg
 email: stone.sitong.chen@outlook.com
 description: 02806
@@ -13,7 +13,7 @@ github_repo: "https://github.com/chen-si-tong/chen-si-tong.github.io" # you code
 # Sidebar settings
 sidebar: flase              # whether or not using Sidebar.
 sidebar-about-description: 
-sidebar-avatar: /img/about-Otone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
