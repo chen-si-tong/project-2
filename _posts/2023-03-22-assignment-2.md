@@ -12,26 +12,26 @@ tags:
 <embed 
        type="text/html" 
        src="/img/pie chart.html"
-       width="1100"
+       width="800"
        height="600"
        >
-</embed>
+
 
 <embed 
        type="text/html" 
        src="/img/map of SF.html"
-       width="1100"
+       width="800"
        height="600"
        >
-</embed>
+
 
 
 <embed 
        type="text/html" 
        src="/img/Crime Trends 168.html"
-       width="1100"
+       width="800"
        height="600"
        >
-</embed>
+
 
 
