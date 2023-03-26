@@ -9,12 +9,15 @@ tags:
     - 
 ---
 <p>Hello, world! </p>
-<embed 
-       type="text/html" 
-       src="/img/pie chart.html"
-       width="800"
-       height="600"
-       >
+<figure>
+  <embed 
+    type="text/html" 
+    src="/img/pie chart.html"
+    width="800"
+    height="600"
+  >
+  <figcaption>This is a caption for the pie chart</figcaption>
+</figure>
 
 
 <embed 
