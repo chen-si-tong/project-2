@@ -16,7 +16,7 @@ tags:
     width="800"
     height="600"
   >
-  <figcaption>This is a caption for the pie chart</figcaption>
+    <figcaption><i>This is a caption for the pie chart</i></figcaption>
 </figure>
 
 
