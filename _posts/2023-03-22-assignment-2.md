@@ -8,8 +8,14 @@ tags:
     - 
     - 
 ---
-
-<h1 class="header">Hello, world! </h1>
+<head>
+    <style>
+        .header {
+        text-align: center;
+        font-size: 40px;}
+    </style>
+</head>
+<p class="header">Hello, world! </p>
 <figure>
   <embed 
     type="text/html" 
