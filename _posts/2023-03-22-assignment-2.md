@@ -8,7 +8,12 @@ tags:
     - 
     - 
 ---
-<p>Hello, world! </p>
+<head>
+    <style>
+        .header {text-align: center;}
+    </style>
+</head>
+<h1 class="header">Hello, world! </h1>
 <figure>
   <embed 
     type="text/html" 
@@ -19,22 +24,26 @@ tags:
     <figcaption><i>This is a caption for the pie chart</i></figcaption>
 </figure>
 
-
+<figure>
 <embed 
        type="text/html" 
        src="/img/map of SF.html"
        width="800"
        height="600"
        >
+ <figcaption><i>This is a caption for the pie chart</i></figcaption>
+</figure>
 
 
-
+<figure>
 <embed 
        type="text/html" 
        src="/img/Crime Trends 168.html"
        width="800"
        height="600"
        >
+ <figcaption><i>This is a caption for the pie chart</i></figcaption>
+</figure>
 
 
 
