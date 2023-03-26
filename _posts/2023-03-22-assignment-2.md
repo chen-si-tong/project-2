@@ -8,11 +8,7 @@ tags:
     - 
     - 
 ---
-<head>
-    <style>
-        .header {text-align: center;}
-    </style>
-</head>
+
 <h1 class="header">Hello, world! </h1>
 <figure>
   <embed 
