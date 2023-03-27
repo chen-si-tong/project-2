@@ -88,4 +88,6 @@ chrome-tab-theme-color: "#000000"
 service-worker: flase
 
 
+extra_css:
+  - /master/css/custom.css
 

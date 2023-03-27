@@ -1,0 +1,6 @@
+.post-title a {
+   text-decoration: none;
+}
+.post-title a::before {
+   content: none;
+}
