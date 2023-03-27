@@ -2,7 +2,7 @@
 layout:     post
 title:      Assignment 2  
 header-img: img/nasa.jpg
-catalog: true
+catalog: Flase
 tags:
     - 
     - 
