@@ -16,8 +16,8 @@ tags:
     </style>
 </head>
 <p class="header"><u>San Francisco : Crime Data Analysis</u> </p>
-<p>San Francisco is one of the most well-known cities in the world, renowned for its diverse culture and natural beauty.\n However, like all major cities, San Francisco has its share of crime. \n\n In this article, we aim to provide a comprehensive analysis of the crime trends in San Francisco between 2000 and 2017. By examining the data , we hope to gain insight into the factors that contribute to criminal activity in the city and highlight areas where further action can be taken to reduce crime rates.</p>
-<p></p>
+<p>San Francisco is one of the most well-known cities in the world, renowned for its diverse culture and natural beauty.<br> However, like all major cities, San Francisco has its share of crime. <br><br> In this article, we aim to provide a comprehensive analysis of the crime trends in San Francisco between 2000 and 2017. By examining the data , we hope to gain insight into the factors that contribute to criminal activity in the city and highlight areas where further action can be taken to reduce crime rates.</p>
+<p>The pie chart below, illustrates the crimes with the highest number of occurancies during this period. We notice that theft in general , either this is robbery, burglary or vehicle theft is accounted for more than 50% of the crimes that took place in the city. This can be due to its bustling streets and thriving tourist industry, which can make it an attractive target for criminals.<br> It is important to mention that the second and third highest crimes reported was assault and vandalism. On the other hand, driving under the influence and drunkenness are some of the lowest reported crimes.</p>
 <figure>
   <embed 
     type="text/html" 
@@ -25,9 +25,10 @@ tags:
     width="800"
     height="600"
   >
-    <figcaption><i>This is a caption for the pie chart</i></figcaption>
+    <figcaption><i>In this chart, we can see the total number of occurancies for the most reported crimes in San Francisco, during the period 2000-2017.</i></figcaption>
 </figure>
 
+<p><br><br> In the following graph we are going more into depth on the crime of larceny. The visualization represents the number of reports throught the hours of each weekday.<br> We can easily notice that there is a pattern with the number of crimes occuring throughout the day. The number of occurancies is the highest late in the afternoon between 5 pm and 10 pm.<br>Although the graph shows that there is a similarity between all days of the week, we can see that there is a sudden rise at midnight on Friday and Saturday. There are several possible reasons why thefts are higher at these times. For example, is that these nights are typically associated with increased socual activity, such as going out , which can create more opportunities for theft to occur.</p>
 <figure>
 <embed 
        type="text/html" 
@@ -35,9 +36,11 @@ tags:
        width="800"
        height="600"
        >
- <figcaption><i>This is a caption for the pie chart</i></figcaption>
+ <figcaption><i>In this Bokeh visualization, we can see the total number of occurancies for theft/larceny throught all weekdays ,by the hour, during 2000-2017.</i></figcaption>
 </figure>
 
+<p>In the following heatmap of San Francisco , it becomes apparent that certain areas of the city are more prone to crime than others. The heatmap shows the spatial distribution of crime incidents throughout the city, with each district represented by a different color based on the frequency of crimes.<br>What's particularly striking about it, is the large concetration of crime incidents in the northeastern part of the city. Despite the fact that the districts shown in this area are smaller than those in other parts of the city, the frequency of the crimes in this region is more than double that of many other areas. A possible reason is that these districts are close to the bridge that leads to Oakland and criminals can easily escape after commiting a crime.<br>This pattern raises important questions about the underlying factors that contribute to crime in this part of the city, and what can be done to address them.
+</p>
 <figure>
 <embed 
        type="text/html" 
@@ -45,9 +48,11 @@ tags:
        width="800"
        height="600"
        >
- <figcaption><i>This is a caption for the pie chart</i></figcaption>
+ <figcaption><i>The heatmap illustrates the variety of districts in different color based on the total amount of the crimes occured between 2000-2017.</i></figcaption>
 </figure>
-
+<p>
+    Our analysis of the crime data in San Francisco between 2000 and 2017 has shown that theft is the most commonly reported crime in the city. Other crimes, such as assault and vandalism have also affected the city.<br>By undestanding the factors that contribute to crime in San Francisco, we can work towards implementing effective solutions that can help reduce crime rates in the city. Through continued analysis and action, we can work towards making San Francisco a safer and more secure place for all its residents and visitors.
+</p>
 
 
 
