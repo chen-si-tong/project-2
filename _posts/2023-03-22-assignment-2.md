@@ -15,8 +15,8 @@ tags:
         font-size: 40px;}
     </style>
 </head>
-<p class="header"><u>San Francisco : Crime Data Analysis</u> </p>
-<p>San Francisco is one of the most well-known cities in the world, renowned for its diverse culture and natural beauty.<br> However, like all major cities, San Francisco has its share of crime. <br><br> In this article, we aim to provide a comprehensive analysis of the crime trends in San Francisco between 2000 and 2017. By examining the data , we hope to gain insight into the factors that contribute to criminal activity in the city and highlight areas where further action can be taken to reduce crime rates.</p>
+<p class="header"><u>San Francisco - Crime Data Analysis</u> </p>
+<p>San Francisco is one of the most well-known cities in the world, renowned for its diverse culture and natural beauty. However, like all major cities, San Francisco has its share of crime. <br><br> In this article, we aim to provide a comprehensive analysis of the crime trends in San Francisco between 2000 and 2017. By examining the data , we hope to gain insight into the factors that contribute to criminal activity in the city and highlight areas where further action can be taken to reduce crime rates.</p>
 <p>The pie chart below, illustrates the crimes with the highest number of occurancies during this period. We notice that theft in general , either this is robbery, burglary or vehicle theft is accounted for more than 50% of the crimes that took place in the city. This can be due to its bustling streets and thriving tourist industry, which can make it an attractive target for criminals.<br> It is important to mention that the second and third highest crimes reported was assault and vandalism. On the other hand, driving under the influence and drunkenness are some of the lowest reported crimes.</p>
 <figure>
   <embed 
